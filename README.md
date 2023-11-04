@@ -1,5 +1,5 @@
 <img src='templates/static/geral/img/logo.png'>
-<h1>Vitalabpro é uma aplicação de laboratório de exames, uma plataforma robusta e completa que gerencia solicitações, exames, resultados e acesso médico.</h1>
+<h2>Vitalabpro é uma aplicação de laboratório de exames, uma plataforma robusta e completa que gerencia solicitações, exames, resultados e acesso médico.</h2>
 
 <h2>Requisitos</h2>
 
