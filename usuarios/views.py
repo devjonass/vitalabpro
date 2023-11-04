@@ -49,7 +49,7 @@ def cadastro(request):
                                  'Erro do sistema, contate ao administrador!')
             return redirect('/usuarios/cadastro')
 
-        return redirect('/usuarios/cadastro')
+        return redirect('/usuarios/login')
 
 
 def logar(request):
